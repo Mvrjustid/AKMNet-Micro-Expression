@@ -1,7 +1,6 @@
 # AKMNet for Micro-Expression
 [![GitHub stars](https://img.shields.io/github/stars/Mvrjustid/AKMNet-Micro-Expression)](https://github.com/Mvrjustid/AKMNet-Micro-Expression)
 [![GitHub folks](https://img.shields.io/github/forks/Mvrjustid/AKMNet-Micro-Expression)](https://github.com/Mvrjustid/AKMNet-Micro-Expression)
-[![GitHub](https://img.shields.io/github/license/Mvrjustid/AKMNet-Micro-Expression)](https://github.com/Mvrjustid/AKMNet-Micro-Expression)
 [![GitHub issues](https://img.shields.io/github/issues/Mvrjustid/AKMNet-Micro-Expression)](https://github.com/Mvrjustid/AKMNet-Micro-Expression/issues)
 
 Recognizing Micro-Expression in Video Clip  with Adaptive Key-Frame Mining
