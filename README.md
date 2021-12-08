@@ -13,11 +13,11 @@ The existing representation based on various deep learning techniques learned fr
 # Citation
 Peng, Min, Chongyang Wang, Yuan Gao, Tao Bi, Tong Chen, Yu Shi, and Xiang-Dong Zhou. "[Recognizing Micro-expression in Video Clip with Adaptive Key-frame Mining](https://arxiv.org/abs/2009.09179)", arXiv preprint arXiv:2009.09179 (2020).
 
-@article{peng2020recognizing,\\
-  title={Recognizing Micro-Expression in Video Clip with Adaptive Key-Frame Mining},\\
-  author={Peng, Min and Wang, Chongyang and Gao, Yuan and Bi, Tao and Chen, Tong and Shi, Yu and Zhou, Xiang-Dong},\\
-  journal={arXiv preprint arXiv:2009.09179},\\
-  year={2020}\\
+@article{peng2020recognizing,//
+  title={Recognizing Micro-Expression in Video Clip with Adaptive Key-Frame Mining},//
+  author={Peng, Min and Wang, Chongyang and Gao, Yuan and Bi, Tao and Chen, Tong and Shi, Yu and Zhou, Xiang-Dong},//
+  journal={arXiv preprint arXiv:2009.09179},//
+  year={2020}//
 }
 
 # Platform and dependencies
