@@ -5,21 +5,24 @@
 
 Recognizing Micro-Expression in Video Clip  with Adaptive Key-Frame Mining
 
-![alt text](docs/akmnetoverview.png 'overview of the network')
+<p align=center>
+  <img src=docs/akmnetoverview.png width="700x"/>
+</p>
+  
 
 # Purpose
 The existing representation based on various deep learning techniques learned from a full video clip is usually redundant. In addition, methods utilizing the single apex frame of each video clip require expert annotations and sacrifice the temporal dynamics. In our paper, we propose a novel end-to-end deep learning architecture, referred to as adaptive key-frame mining network (AKMNet). Operating on the video clip of micro-expression, AKMNet is able to learn discriminative spatio-temporal representation by combining spatial features of self-learned local key frames and their global-temporal dynamics.
 
 # Citation
 Peng, Min, Chongyang Wang, Yuan Gao, Tao Bi, Tong Chen, Yu Shi, and Xiang-Dong Zhou. "[Recognizing Micro-expression in Video Clip with Adaptive Key-frame Mining](https://arxiv.org/abs/2009.09179)", arXiv preprint arXiv:2009.09179 (2020).
-
+```
 @article{peng2020recognizing,
   title={Recognizing Micro-Expression in Video Clip with Adaptive Key-Frame Mining},
   author={Peng, Min and Wang, Chongyang and Gao, Yuan and Bi, Tao and Chen, Tong and Shi, Yu and Zhou, Xiang-Dong},
   journal={arXiv preprint arXiv:2009.09179},
   year={2020}
 }
-
+```
 # Platform and dependencies
 Ubuntu 14.04  Python 3.7  CUDA8.0 CuDNN6.0+  
 pytorch==1.0.0  
@@ -36,7 +39,10 @@ pytorch==1.0.0
   In our method, we do not need the frame normalization, the design of all modules in the AKMNet is independent on the length of input video clip  
 
 # Method
-![image](https://github.com/Trunpm/AKMNet-Micro-Expression/blob/main/docs/module.jpg)  
+
+<p align=center>
+  <img src=https://github.com/Trunpm/AKMNet-Micro-Expression/blob/main/docs/module.jpg width="600x"/>
+</p>
 
 # Experiment
 * Comparison Experiment  
